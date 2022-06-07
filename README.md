@@ -2,7 +2,7 @@
 
 
 
-## Original Medium post
+## Development process preview
 
 ![Clone Youtube with Tailwind CSS in 3 days](https://media.giphy.com/media/6wuPSF8jgrIw4ta3dS/giphy.gif)
 
