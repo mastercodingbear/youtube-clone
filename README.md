@@ -1,11 +1,5 @@
 # Youtube clone with Tailwind CSS and Nuxt 3
 
-
-
-## Development process preview
-
-![Clone Youtube with Tailwind CSS in 3 days](https://media.giphy.com/media/6wuPSF8jgrIw4ta3dS/giphy.gif)
-
 ## Setup
 
 Make sure to install the dependencies
