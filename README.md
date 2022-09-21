@@ -6,9 +6,6 @@
 
 ![Clone Youtube with Tailwind CSS in 3 days](https://media.giphy.com/media/6wuPSF8jgrIw4ta3dS/giphy.gif)
 
-### Youtube preview
-![Youtube preview](https://github.com/leon-to/youtube.nuxt3.tailwindcss/blob/develop/youtube-preview.png)
-
 ## Setup
 
 Make sure to install the dependencies
